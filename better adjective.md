@@ -52,7 +52,7 @@ Be abundant/rich in.
 
 决定性的 definitive.decisive
 
-可行的 feasible.achievable.
+可行的 feasible.achievable.  viable
 
 可获得的 available.obtainable.accessible.
 
