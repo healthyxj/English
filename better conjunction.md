@@ -2,6 +2,8 @@
 
 第一，首先 firstly.initially.one of the main.in the first place.
 
+而，却 whereas.
+
 换句话说 in other words.
 
 另外.除此之外 Additionally.in addition.besides.secondly.what is more.
