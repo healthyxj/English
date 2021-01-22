@@ -15,7 +15,37 @@ a bird can fly freely in the sky,  I have got to follow the same dorm-cafeteria-
 ---
 # 二、结构
 开头一端是介绍背景的，段尾增加个人的看法。中间三段用于阐明自己的观点，注意要使用例子。结尾的一段用于总结。
+# 三、句式
+1、<b>主动改被动</b>
 
+2、<b>动词改形容词、名词、词组</b>
+
+3、It is adj for sb to do sth. It is a must for us to do.
+
+4、如果 you will succeed, if/given that/provided that you work hard.逗号别忘，更推荐使用后两个。
+
+5、it is n that 强调句
+
+6、too to 太而不能
+
+7、make/ find it difficult to do
+
+8、<b>多用从句，尤其是主语从句</b>
+# 四、注意事项
+1、避免口语化和缩写
+
+2、注意单复数
+
+3、Which 修饰整个句子要加逗号
+
+4、Such as 作为插入语，前后有逗号
+
+5、Depressing与depressed的区别
+
+口语化表达
+~~~
+You can not imagine how 
+~~~
 
 
 
