@@ -46,6 +46,25 @@ a bird can fly freely in the sky,  I have got to follow the same dorm-cafeteria-
 ~~~
 You can not imagine how 
 ~~~
+# 五、实用短语
+保持稳定 level out.remain stable.remain still/steady.maintain the same level.
+
+充满了 be filled with. be saturated with.
+
+从 到  range from.
+
+降低至 dip to.fall to.slump to.descend to.
+
+努力 struggle for.aspire after.strive.spare no efforts to.
+
+在当代社会 in modern society.in comtemporary society.
+
+在某些方面 in terms of.
+
+增长至 grow to.rise to.increase to.go up to.ascend to.
+
+
+
 
 
 
