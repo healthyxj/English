@@ -90,12 +90,13 @@
 
 考虑到 consider.take  into account.
 
-
 控制 control.curb（犯罪、污染之类的）.
 
 扩大magnify.boast.enlarge.expand.strengthen.
 
 扩展眼界 horizons(贬值了).broaden one’s vision（不可数）.expand one’s outlook.
+
+理解 understand.  comprehend.
 
 练习 exercise.practice
 
