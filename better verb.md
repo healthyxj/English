@@ -2,7 +2,7 @@
 
 保持 remain.maintain.preserve.
 
-避开 avoid.bypass.eschew.shun
+避开，躲避 avoid.bypass.  eschew(避免).shun.evade.
 
 必须 should.must.ought to.be supposed to.
 
@@ -181,7 +181,7 @@ think.assert.claim.deem.argue.suppose.suggest.propose.state.maintain.consider.re
 
 增加 increase.
 
-增强 strengthen.fortify.reinforce.consolidate.
+增强 strengthen.reinforce.fortify(建筑or饮料).consolidate.bolster.
 
 找到 find.discover.spot.
 
