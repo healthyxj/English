@@ -99,7 +99,7 @@ Eg：the analogy of looking for a needle in a haystack
 
 相同的 identical.equal.alike.
 
-显著的 marked.considerate.
+显著的 marked.considerable. salient.
 
 新的 new.novel.brand new.
 
