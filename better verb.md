@@ -58,6 +58,8 @@
 
 激励 encourage.inspire.stimulate.motivate.spur
 
+纪念 commemorate.
+
 加快 accelerate.speed up.hasten.increase.
 
 加剧，恶化 aggravate.exacerbate
