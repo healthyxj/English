@@ -46,6 +46,8 @@ Be abundant/rich in.
 
 激动的 excited.thrilled.
 
+间断的 intermittent.
+
 健康的 healthy.wholesome.robust
 
 沮丧的 sad.depressed.gloomy.frustrated.
