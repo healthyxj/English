@@ -3,6 +3,8 @@
 本地人 native
 
 场所 place. venue.
+
+冲突 .strife.
  
 错误 mistake.fault.error.fallacy(谬论).
 
