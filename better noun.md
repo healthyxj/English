@@ -1,6 +1,8 @@
 保护 conservation.
 
 本地人 native
+
+场所 place. venue.
  
 错误 mistake.fault.error.fallacy(谬论).
 
