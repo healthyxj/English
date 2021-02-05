@@ -87,6 +87,8 @@ Eg：the analogy of looking for a needle in a haystack
 
 生气的 angry.annoyed.furious.irritated
 
+首要的 cardinal.
+
 特定的 specific.particular.
 
 突然的 abrupt.sudden.
