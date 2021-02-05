@@ -38,6 +38,8 @@
 
 交通工具 transportation tools.
 
+监督 supervise.  .surveillance.
+
 减少 reduction.
 
 老师 instructors.educators.lecturers.
