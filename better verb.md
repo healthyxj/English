@@ -48,6 +48,8 @@
 
 改变了很多 radically/fundamentally change
 
+告知 impart.
+
 购买 buy.puchase.
 
 花费 spend on/in doing sth.
