@@ -32,6 +32,8 @@
 
 恢复 restoration.
 
+会话 discourse.
+
 假说 assumption.hypothesis.notion.
 
 焦虑 agitation.anxiety.disturbance.
@@ -41,6 +43,8 @@
 监督 supervise.  .surveillance.
 
 减少 reduction.
+
+惊慌 dismay.
 
 老师 instructors.educators.lecturers.
 
@@ -66,7 +70,7 @@
 
 区域 area.region.
 
-缺点 disadvantage.shortcoming.drawback.defect.demerit.
+缺点 disadvantage.shortcoming.drawback.defect.demerit. flaw(性格中的缺点，某物的瑕疵).
 
 人民生活水平 residents’ living standard 
 
@@ -81,6 +85,8 @@
 要素 element.component.ingredient.
 
 压力 stress.pressure.strain.
+
+疑问 query.
 
 意愿 willingness.
 
