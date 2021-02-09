@@ -4,6 +4,8 @@
 
 必要的 necessary.indispensible、
 
+不必要的 unnecessary. redundant.
+
 不好的 bad.undesirable.negative.adverse.dreadful.unfavorable.poor.health-threatening.
 
 不可避免的 unavoidable.
@@ -71,9 +73,13 @@ Eg：the analogy of looking for a needle in a haystack
 
 美丽的 beautiful.attractive.gorgeous.eye-catching.
 
+明确的 tangible.
+
 明显的 obvious.apprant.manifest.evident.explict.overt.
 
 贫穷的 poor.needy.impoverished.poverty-stricken.destitute.in poverty.
+
+潜在的 latent.
 
 缺乏的 devoid of.lacking in. 
 
