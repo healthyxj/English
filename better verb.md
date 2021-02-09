@@ -4,6 +4,8 @@
 
 避开，躲避 avoid.bypass.  eschew(避免).shun.evade.
 
+鄙视 despise.
+
 必须 should.must.ought to.be supposed to.
 
 辨别 distinguish.differentiate.discriminate.
@@ -42,6 +44,8 @@
 
 放弃 give up.abandon.desert.forsake.
 
+符合,守规矩 conform.comply.
+
 负责，解释 be responsible for.account for.take charge for.answer for.be liable for.
 
 改变 change.shift.alter.modify.convert
@@ -53,6 +57,8 @@
 购买 buy.puchase.
 
 花费 spend on/in doing sth.
+
+唤起 evoke.
 
 获得 attain.achieve. procure.acquire
 
@@ -124,6 +130,8 @@
 
 取代 supersede.replace.substitute.
 
+驱散 dissipate.
+
 驱使 drive.compel.force.
 
 忍受 survive.endure.
@@ -133,11 +141,13 @@ think.assert.claim.deem.argue.suppose.suggest.propose.state.maintain.consider.re
 
 上课 attend course.
 
+呻吟 groan.
+
 使沮丧 depress.disturb.
 
 使满意 satisfy.
 
-使用，利用 use.utilize.make use of.employ.apply.harness. take advantage of.make the best of
+使用，利用 use.utilize.make use of.employ.apply.harness. take advantage of.make the best of  .avail oneself of sth.
 
 思考 consider.contemplate.reflect on .ponder.
 
