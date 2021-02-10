@@ -26,6 +26,10 @@ The majority of the population
 大量的 many.numerous.a host of.abundant.plentiful. A certain amount of.a couple of.
 Be abundant/rich in.
 
+断断续续的 intermittent.
+
+短暂的 transient.
+
 发展迅速的 fast-developing.burgeoning.
 
 富裕的 rich.wealthy.affluent.well-heeled.well-to-do.
@@ -105,6 +109,8 @@ Eg：the analogy of looking for a needle in a haystack
 
 无聊的 boring.dull.tiresome.tedious.
 
+无数的 innumerable.
+
 先进的 advanced.developed.progessed.
 
 相同的 identical.equal.alike.
@@ -136,7 +142,7 @@ good.decent.excellent.outstanding.extraordinary.remarkable.positive.favorable.pr
 
 越来越多的 more and more.an increasing number/amount of.
 
-重要的 important.significant.vital.provital.crucial.paramount.prominent(突出的).substantial.
+重要的 important.significant.vital.provital.crucial.paramount.prominent(突出的).substantial.  salient(最重要的).
 
 著名的 famous.renowned.prominent.noticeable.notable
 
