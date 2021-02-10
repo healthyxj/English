@@ -56,7 +56,7 @@
 
 购买 buy.puchase.
 
-花费 spend on/in doing sth.
+花费 spend on/in doing sth.   expend.
 
 唤起 evoke.
 
@@ -91,6 +91,8 @@
 纠正 correct.
 
 举例子 take  as an example.
+
+拒绝给 withhold sth.
 
 居住 inhabit.populate
 
