@@ -78,6 +78,8 @@
 
 特征 feature.character.characteristic.trait.
 
+相似  resemblance between.
+
 心情 mood.
 
 行李 baggage.luggage.packing
