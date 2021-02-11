@@ -6,6 +6,8 @@
 
 换句话说 in other words.
 
+尽管如此 nonetheless.
+
 另外.除此之外 Additionally.in addition.besides.secondly.what is more.
 
 如今 nowadays.in current society.in the present day and age.
