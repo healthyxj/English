@@ -4,7 +4,7 @@
 
 避开，躲避 avoid.bypass.  eschew(避免).shun.evade.
 
-鄙视 despise.
+鄙视，轻视 despise.discriminate.scorn.
 
 必须 should.must.ought to.be supposed to.
 
@@ -194,6 +194,8 @@ think.assert.claim.deem.argue.suppose.suggest.propose.state.maintain.consider.re
 与 不同，与 不一致 vary.out of one’s accord with
 
 在国外旅游 travel abroad.travel to foreign countries. 
+
+责备 reproach.
 
 增加 increase.
 
