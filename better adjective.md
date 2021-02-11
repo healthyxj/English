@@ -107,11 +107,13 @@ Eg：the analogy of looking for a needle in a haystack
 
 稳定的 steady.stable.constant.
 
-无聊的 boring.dull.tiresome.tedious.
+无聊的 boring.dull.tiresome.tedious.   monotonous.
 
 无数的 innumerable.
 
 先进的 advanced.developed.progessed.
+
+显示的，象征的 indicative of sth.
 
 相同的 identical.equal.alike.
 
@@ -142,7 +144,7 @@ good.decent.excellent.outstanding.extraordinary.remarkable.positive.favorable.pr
 
 越来越多的 more and more.an increasing number/amount of.
 
-重要的 important.significant.vital.provital.crucial.paramount.prominent(突出的).substantial.  salient(最重要的).
+重要的 important.significant.vital.provital.crucial.paramount.prominent(突出的).substantial.  salient(最重要的).imperative(最重要的).
 
 著名的 famous.renowned.prominent.noticeable.notable
 
