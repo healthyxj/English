@@ -199,11 +199,11 @@ think.assert.claim.deem.argue.suppose.suggest.propose.state.maintain.consider.re
 
 增加 increase.
 
-增强 strengthen.reinforce.fortify(建筑or饮料).consolidate.bolster.
+增强 strengthen.reinforce.fortify(建筑or饮料).consolidate.bolster.amplify.
 
 找到 find.discover.spot.
 
-支持，赞同 support.in favor of.advocate.espouse.argue for.approve of.
+支持，赞同 support.in favor of.advocate.espouse.argue for.approve of.  endorse(公开支持)
 
 证实 prove.confirm.verify.
 
