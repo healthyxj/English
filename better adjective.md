@@ -52,9 +52,13 @@ Be abundant/rich in.
 
 激动的 excited.thrilled.
 
+即将发生的 imminent.
+
 间断的 intermittent.
 
 健康的 healthy.wholesome.robust
+
+谨慎的 discreet.
 
 沮丧的 sad.depressed.gloomy.frustrated.
 
@@ -135,7 +139,7 @@ Eg：the analogy of looking for a needle in a haystack
 
 有趣的 interesting.amusing.entertaining.engaging.intriguing.enchanting.alluring
 
-有限的 limited.
+有限的 limited.  finite.
 
 优秀的
 good.decent.excellent.outstanding.extraordinary.remarkable.positive.favorable.promising.
