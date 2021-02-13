@@ -169,7 +169,7 @@ think.assert.claim.deem.argue.suppose.suggest.propose.state.maintain.consider.re
 
 限制 limit.restrict.constrain.
 
-需要 need.require.necessitate.call for.
+需要 need.require.  necessitate.call for.
 
 选择 choose.opt to do sth.
 
