@@ -52,6 +52,8 @@ Be abundant/rich in.
 
 激动的 excited.thrilled.
 
+极好的 terrific.
+
 即将发生的 imminent.
 
 间断的 intermittent.
@@ -88,6 +90,8 @@ Eg：the analogy of looking for a needle in a haystack
 贫穷的 poor.needy.impoverished.poverty-stricken.destitute.in poverty.
 
 潜在的 latent.
+
+勤勉的 diligent.
 
 缺乏的 devoid of.lacking in. 
 
