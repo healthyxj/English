@@ -50,6 +50,8 @@
 
 理念 conception.
 
+魅力 glamour.
+
 名声 fame.reputation.renown.prestige.
 
 目的 purpose.aim.goal.
