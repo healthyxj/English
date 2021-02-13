@@ -22,6 +22,8 @@
 
 由于 because of.due to.due to the fact that. since.as.for.owing to.on account of.
 
+正当 时 in the midst of.
+
 总的来说 in a word.
 
 总之 in brief.in short.in a word.in a conclusion.all in all.to sum up.
