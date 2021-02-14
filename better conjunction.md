@@ -10,6 +10,8 @@
 
 另外.除此之外 Additionally.in addition.besides.secondly.what is more.
 
+凭借 with.  whereby.
+
 如今 nowadays.in current society.in the present day and age.
 
 所以 so.thus.hence.therefore.as a result/consequence.thereby.hereby.consequently.
