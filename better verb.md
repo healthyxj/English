@@ -145,6 +145,8 @@ think.assert.claim.deem.argue.suppose.suggest.propose.state.maintain.consider.re
 
 呻吟 groan.
 
+使焦虑不安 agitate sb.
+
 使沮丧 depress.disturb.
 
 使满意 satisfy.
@@ -181,7 +183,7 @@ think.assert.claim.deem.argue.suppose.suggest.propose.state.maintain.consider.re
 
 寻找 look for.seek.
 
-抑制 inhibit.suppress.
+抑制，阻碍 inhibit.suppress.obstruct.
 
 引起,导致 cause.result in.give rise to.trigger.lead to.contribute to.elicit.
 
