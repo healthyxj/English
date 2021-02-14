@@ -57,6 +57,8 @@ You can not imagine how
 
 努力 struggle for.aspire after.strive.spare no efforts to.
 
+受到关注 become under scrutiny.
+
 在当代社会 in modern society.in comtemporary society.
 
 在某些方面 in terms of.
