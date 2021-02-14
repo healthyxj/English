@@ -12,6 +12,8 @@
 
 顶点 top.climax.peak.zenith.
 
+范例 paradigm.
+
 方法 way.method.means.approach
 
 方面 side.aspect.angle.
@@ -86,9 +88,11 @@
 
 行李 baggage.luggage.packing
 
+压力 stress.pressure.strain.
+
 要素 element.component.ingredient.
 
-压力 stress.pressure.strain.
+研讨会 symposium.
 
 疑问 query.
 
