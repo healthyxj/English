@@ -1,3 +1,5 @@
+从此以后 henceforth.
+
 当	时 when.as.
 
 第一，首先 firstly.initially.one of the main.in the first place.
@@ -6,7 +8,7 @@
 
 换句话说 in other words.
 
-尽管如此 nonetheless.
+尽管如此 nonetheless.notwithstanding.
 
 另外.除此之外 Additionally.in addition.besides.secondly.what is more.
 
