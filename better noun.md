@@ -6,7 +6,7 @@
 
 冲突 .strife.
  
-错误 mistake.fault.error.fallacy(谬论).
+错误 mistake.fault.error.fallacy(谬论).   blunder
 
 出现 advent.arrival.appearance.
 
@@ -30,6 +30,8 @@
 
 顾客 customers.shoppers.client.consumer.purchaser
 
+花费 expenditure
+
 环境 environment.circumstance.atmosphere.surronding.ambience
 
 恢复 restoration.
@@ -51,6 +53,8 @@
 老师 instructors.educators.lecturers.
 
 理念 conception.
+
+溜达 stroll.
 
 魅力 glamour.
 
@@ -79,6 +83,8 @@
 人民生活水平 residents’ living standard 
 
 事情 thing.business.issue.affair.matter
+
+失业 unemployment、layoff
 
 特征 feature.character.characteristic.trait.
 
