@@ -74,7 +74,7 @@
 
 情况 condition.
 
-青少年 youngsters.youths.adolescents.
+青少年 youngsters.youths.adolescents.  juvenile
 
 区域 area.region.
 
