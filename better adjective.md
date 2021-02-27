@@ -4,7 +4,7 @@
 
 必要的 necessary.indispensible、
 
-不必要的 unnecessary. redundant.
+不必要的 unnecessary. redundant.superfluous(多余的).
 
 不好的 bad.undesirable.negative.adverse.dreadful.unfavorable.poor.health-threatening.
 
@@ -15,6 +15,8 @@
 不利的 adverse.
 
 不同的、各种各样的 different.differing.unsimiliar.distinct.diverse.various.a variety of.a range of.
+
+不重要的 petty.
 
 充足的 abundant.enough.adequate.sufficient.ample.
 
@@ -56,11 +58,13 @@ Be abundant/rich in.
 
 即将发生的 imminent.
 
+坚定的 resolute(意志).
+
 间断的 intermittent.
 
 健康的 healthy.wholesome.robust
 
-谨慎的 discreet.
+谨慎的 discreet.rigorous.
 
 沮丧的 sad.depressed.gloomy.frustrated.
 
@@ -96,6 +100,8 @@ Eg：the analogy of looking for a needle in a haystack
 缺乏的 devoid of.lacking in. 
 
 热心的 ardent.passionate.zealous.enthusiastic
+
+认真的 conscientious.
 
 容易的 easy.
 
@@ -146,9 +152,9 @@ Eg：the analogy of looking for a needle in a haystack
 有限的 limited.  finite.
 
 优秀的
-good.decent.excellent.outstanding.extraordinary.remarkable.positive.favorable.promising.
+good.decent.excellent.outstanding.extraordinary.remarkable.positive.favorable.promising.  eminent(卓越的).
 
-有益的 helpful.beneficial.advantageous.favorable.
+有益的 helpful.beneficial.advantageous.favorable.  wholesome(有益身心的).
 
 越来越多的 more and more.an increasing number/amount of.
 
