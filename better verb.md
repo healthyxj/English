@@ -1,10 +1,12 @@
+安慰 soothe.reassure.
+
 帮助 help.give somebody a hand.be in need of.favor.aid.assist.offer/provide assistance
 
 保持 remain.maintain.preserve.
 
 避开，躲避 avoid.bypass.  eschew(避免).shun.evade.
 
-鄙视，轻视 despise.discriminate.scorn.
+鄙视，轻视 despise.discriminate.scorn.contempt.
 
 必须 should.must.ought to.be supposed to.
 
@@ -14,7 +16,7 @@
 
 参加 attend.participate in.get involved in.
 
-尝试，试图 try.attempt. endeavor.strive.sought to
+尝试，试图 try.attempt.    endeavor.strive.sought to
 
 超过 overtake.surpass.exceed.outdo
 
@@ -23,6 +25,8 @@
 出现 appear.emerge.
 
 传播 spread.propagate.diseminate.(跟信息、观点之类的)
+
+喘息 pant out sth(喘息着说出).
 
 从事 do.perform.conduct.
 
@@ -35,6 +39,8 @@
 发现 discover.detect.recognize.notice.spot.
 
 发展 develop.advance.
+
+反驳 retort.refute.
 
 反对 object.be opposed to.argue against.frown on.deprecate(加态度).
 
@@ -71,6 +77,8 @@
 加快 accelerate.speed up.hasten.increase.
 
 加剧，恶化 aggravate.exacerbate
+
+坚持 perserve with sth.
 
 建立 set up.establish.start
 
@@ -143,6 +151,8 @@ think.assert.claim.deem.argue.suppose.suggest.propose.state.maintain.consider.re
 
 上课 attend course.
 
+设想 envisage.conceive
+
 呻吟 groan.
 
 使焦虑不安 agitate sb.
@@ -151,9 +161,11 @@ think.assert.claim.deem.argue.suppose.suggest.propose.state.maintain.consider.re
 
 使满意 satisfy.
 
+使迷惑 bewilder.
+
 使用，利用 use.utilize.make use of.employ.apply.harness. take advantage of.make the best of  .avail oneself of sth.
 
-思考 consider.contemplate.reflect on .ponder.
+思考 consider.contemplate.reflect on .ponder.meditate(深思).
 
 讨论题目 discuss questions.
 
@@ -183,7 +195,7 @@ think.assert.claim.deem.argue.suppose.suggest.propose.state.maintain.consider.re
 
 寻找 look for.seek.
 
-抑制，阻碍 inhibit.suppress.obstruct.
+抑制，阻碍 inhibit.suppress.obstruct.hamper
 
 引起,导致 cause.result in.give rise to.trigger.lead to.contribute to.elicit.
 
