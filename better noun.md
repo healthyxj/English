@@ -5,10 +5,14 @@
 场所 place. venue.
 
 冲突 .strife.
+
+刺激 incentive.
  
-错误 mistake.fault.error.fallacy(谬论).   blunder
+差异 discrepancy. 
 
 出现 advent.arrival.appearance.
+
+错误 mistake.fault.error.fallacy(谬论).   blunder
 
 顶点 top.climax.peak.zenith.
 
@@ -50,6 +54,8 @@
 
 惊慌 dismay.
 
+困境 plight. 
+
 老师 instructors.educators.lecturers.
 
 理念 conception.
@@ -64,7 +70,7 @@
 
 能力 ability.capacity.competence.
 
-毗邻 abut.adjoin.be close to.
+毗邻 abut.adjoin.be close to. vicinity. 
 
 评价 appraisal.assessment.evaluation.
 
